@@ -1,0 +1,28 @@
+name: Amia
+favicon: null
+layout_spectrum: 0.30392082314938307
+typography_spectrum: 0.5419691135175526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.35033832397311926
+  lightness: 0.6679401728324592
+  saturation: 0.3330026736948639
+  rhythmicContrast: 0.9591792705468833
+purpose: []
